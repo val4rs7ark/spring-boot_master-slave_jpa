@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 15
+Class-Path: lib/spring-boot-starter-data-jpa-2.4.1.jar lib/spring-boot-s
+ tarter-jdbc-2.4.1.jar lib/HikariCP-3.4.5.jar lib/spring-jdbc-5.3.2.jar 
+ lib/jakarta.transaction-api-1.3.3.jar lib/jakarta.persistence-api-2.2.3
+ .jar lib/hibernate-core-5.4.25.Final.jar lib/jboss-logging-3.4.1.Final.
+ jar lib/javassist-3.27.0-GA.jar lib/byte-buddy-1.10.18.jar lib/antlr-2.
+ 7.7.jar lib/jandex-2.1.3.Final.jar lib/classmate-1.5.1.jar lib/dom4j-2.
+ 1.3.jar lib/hibernate-commons-annotations-5.1.2.Final.jar lib/jaxb-runt
+ ime-2.3.3.jar lib/txw2-2.3.3.jar lib/istack-commons-runtime-3.0.11.jar 
+ lib/jakarta.activation-1.2.2.jar lib/spring-data-jpa-2.4.2.jar lib/spri
+ ng-data-commons-2.4.2.jar lib/spring-orm-5.3.2.jar lib/spring-context-5
+ .3.2.jar lib/spring-tx-5.3.2.jar lib/spring-beans-5.3.2.jar lib/slf4j-a
+ pi-1.7.30.jar lib/spring-aspects-5.3.2.jar lib/spring-boot-starter-aop-
+ 2.4.1.jar lib/spring-boot-starter-2.4.1.jar lib/spring-boot-2.4.1.jar l
+ ib/spring-boot-autoconfigure-2.4.1.jar lib/spring-boot-starter-logging-
+ 2.4.1.jar lib/logback-classic-1.2.3.jar lib/logback-core-1.2.3.jar lib/
+ log4j-to-slf4j-2.13.3.jar lib/log4j-api-2.13.3.jar lib/jul-to-slf4j-1.7
+ .30.jar lib/jakarta.annotation-api-1.3.5.jar lib/snakeyaml-1.27.jar lib
+ /spring-aop-5.3.2.jar lib/aspectjweaver-1.9.6.jar lib/spring-boot-start
+ er-mustache-2.4.1.jar lib/jmustache-1.15.jar lib/spring-boot-starter-we
+ b-2.4.1.jar lib/spring-boot-starter-json-2.4.1.jar lib/jackson-databind
+ -2.11.3.jar lib/jackson-annotations-2.11.3.jar lib/jackson-core-2.11.3.
+ jar lib/jackson-datatype-jdk8-2.11.3.jar lib/jackson-datatype-jsr310-2.
+ 11.3.jar lib/jackson-module-parameter-names-2.11.3.jar lib/spring-boot-
+ starter-tomcat-2.4.1.jar lib/tomcat-embed-core-9.0.41.jar lib/jakarta.e
+ l-3.0.3.jar lib/tomcat-embed-websocket-9.0.41.jar lib/spring-web-5.3.2.
+ jar lib/spring-webmvc-5.3.2.jar lib/spring-expression-5.3.2.jar lib/spr
+ ing-session-core-2.4.1.jar lib/spring-jcl-5.3.2.jar lib/mariadb-java-cl
+ ient-2.7.1.jar lib/lombok-1.18.16.jar lib/jakarta.xml.bind-api-2.3.3.ja
+ r lib/jakarta.activation-api-1.2.2.jar lib/spring-core-5.3.2.jar lib/sp
+ ring-boot-configuration-processor-2.4.1.jar
+Implementation-Title: demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.example.demo.DemoApplication
+Created-By: Maven Integration for Eclipse
+
